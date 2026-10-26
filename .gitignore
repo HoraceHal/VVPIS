@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+dist/
+*.pem
+*.key
+*.db
+*.db-*
+state.json
+access.json
+members.json
+*.log
+airport*.yaml
+airport*.yml
+.env

@@ -1,0 +1,45 @@
+{
+  "xui": {
+    "version": "v3.10.2",
+    "repository": "MHSanaei/3x-ui",
+    "assets": {
+      "amd64": {
+        "name": "x-ui-linux-amd64.tar.gz",
+        "sha256": "bfda7921984e7a72555c38d4e861c7a8b67b3686b658608937de99682f1452d0"
+      },
+      "arm64": {
+        "name": "x-ui-linux-arm64.tar.gz",
+        "sha256": "a867c65ce52ad49f6504dd4c9c395337dc92ba57ae478da4f1b7ddb624014ed5"
+      }
+    }
+  },
+  "hysteria": {
+    "version": "app/v2.13.0",
+    "repository": "apernet/hysteria",
+    "assets": {
+      "amd64": {
+        "name": "hysteria-linux-amd64",
+        "sha256": "907ba8c9693edb104b20582681fb7dc15639d5b64a9cbb616a7b539190a86691"
+      },
+      "arm64": {
+        "name": "hysteria-linux-arm64",
+        "sha256": "a68a61a84452ca250ce0368202521965ca9cc9d801a404f1dc9008ac6cf677a7"
+      }
+    }
+  },
+  "mihomo": {
+    "version": "v1.19.32",
+    "repository": "MetaCubeX/mihomo",
+    "assets": {
+      "amd64": {
+        "name": "mihomo-linux-amd64-compatible-v1.19.32.gz",
+        "sha256": "ba3ce607747a07f948fc35780e108a4a7c7f552a38b9bd4d115f313ebcb89c20"
+      },
+      "arm64": {
+        "name": "mihomo-linux-arm64-v1.19.32.gz",
+        "sha256": "9dd862e28b46ff7d775f169cceebc28deccaa0a9e804237d421cd2571e0caba0"
+      }
+    }
+  },
+  "certbot": "5.8.0"
+}
